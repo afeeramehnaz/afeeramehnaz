@@ -31,5 +31,5 @@ Senior Software Engineer with 6.5+ years of experience building scalable backend
 ## 📫 Connect
 
 <a href="https://linkedin.com/in/afeera-mehnaz" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn"/></a>
-<a href="https://github.com/afeeramehnaz" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a>
+<a href="https://leetcode.com/u/AfeeraMehnaz/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" title="LeetCode"/></a>
 <a href="mailto:mehnazafeera@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" title="Email"/></a>
