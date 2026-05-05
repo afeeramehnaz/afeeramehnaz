@@ -21,37 +21,46 @@ Senior Software Engineer with 6.5+ years of experience building scalable backend
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,ts,js" />
+      <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+      <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
     </td>
   </tr>
   <tr>
     <td><strong>Backend &amp; Frameworks</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+      <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" /></a>
+      <a href="https://hibernate.org"><img src="https://skillicons.dev/icons?i=hibernate" /></a>
     </td>
   </tr>
   <tr>
     <td><strong>Cloud &amp; Infra</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws" />
+      <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
     </td>
   </tr>
   <tr>
     <td><strong>Databases &amp; Caching</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,redis,dynamodb" />
+      <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+      <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" /></a>
+      <a href="https://aws.amazon.com/dynamodb"><img src="https://skillicons.dev/icons?i=dynamodb" /></a>
     </td>
   </tr>
   <tr>
     <td><strong>DevOps</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,jenkins,git,maven" />
+      <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
+      <a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
+      <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+      <a href="https://maven.apache.org"><img src="https://skillicons.dev/icons?i=maven" /></a>
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vscode,idea" />
+      <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+      <a href="https://www.jetbrains.com/idea"><img src="https://skillicons.dev/icons?i=idea" /></a>
     </td>
   </tr>
 </table>
