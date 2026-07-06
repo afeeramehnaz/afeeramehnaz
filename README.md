@@ -1,6 +1,6 @@
 # Hi, I'm Afeera Mehnaz 👋
 
-Senior Software Engineer with 6.5+ years of experience building scalable backend systems in Java and AWS. I specialize in microservices, serverless architectures, and system design.
+Senior Software Engineer with 7+ years of experience building scalable backend systems in Java and AWS. I specialize in microservices, serverless architectures, and system design.
 
 ---
 
